@@ -1,7 +1,14 @@
 # Connect Four AI
-Built in C++ using only STL
+Built in C++ using only STL.
+You can play agains a lot of different algorithms with varying levels of difficulty.
 
-Hope you enjoy the game,
+The algorithms Included are
+- minmax
+- alpha beta
+- Monte Carlo Tree Search
+
+Hope you enjoy the game and
+
 Have fun
 
 ---

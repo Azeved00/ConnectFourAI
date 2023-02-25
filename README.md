@@ -1,13 +1,20 @@
-g++ version 11.2.0
-linux distro :arch linux x86_64
-kernel       : 5.16.15-arch1-1
+# Connect Four AI
+Built in C++ using only STL
 
+Hope you enjoy the game,
+Have fun
 
-Para compilar: g++ -o driver driver.cpp
+---
 
-Para executar: ./driver
+# Running the program
 
-Depois de iniciar o executavel, basta apenas ler o que é escrito no terminal.
+Compile: `g++ -o driver.out driver.cpp`
 
-Espero que gostem do nosso jogo, 
-Divirtam -se.
+Execute: `./driver`
+
+After running the compiled file all that is left is to follow the instrucions on the terminal.
+
+# Tested With
+- g++ version 11.2.0
+- linux distro :arch linux x86_64
+- kernel       : 5.16.15-arch1-1
